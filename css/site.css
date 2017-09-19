@@ -1,0 +1,32 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+#body{
+	padding: 0px;
+	margin: 0px;
+}
+
+#topbar{
+	padding: 0px;
+	margin-bottom: 0px;
+}
+
+html, body, .container-fluid, #sidebar{
+	height: 100%;
+}
+
+.glyphicon.glyphicon-trash{
+	font-size: 30px;
+}
+
+#delete{
+	
+}
+
+#main{
+	height: 100%;
+	max-width: 3000px;
+	background-color: #fff;
+}
