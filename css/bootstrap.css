@@ -7400,3 +7400,19 @@ legend {
 .panel-info .panel-heading {
   border-color: #000;
 }
+  
+.main {
+  position: absolute;
+  left:200px; top:162px; right:50px; bottom:40px;
+  background: white;
+}
+
+h6 {
+  color: black;
+}
+
+.submit {
+  position: fixed;
+  margin-top: 470px;
+  margin-left: 1450px;
+}
